@@ -24,7 +24,7 @@ The space of AI-assisted software creation is new and rich. We love learning and
 
 - Join our early [slack community](https://specstory.slack.com/join/shared_invite/zt-2vq0274ck-MYS39rgOpDSmgfE1IeK9gg)
 - [Subscribe](https://newsletter.specstory.com/)) to our weekly newsletter and
-- Follow us on [LinkedIn]](https://www.linkedin.com/company/specstory/)
+- Follow us on [LinkedIn](https://www.linkedin.com/company/specstory/)
 
 We're tracking [Awesome Software Composers](https://github.com/specstoryai/awesome-software-composers) in the wild. Open a PR to help enrich and share useful education, workflows, tools and projects to promote software composers using CHOP.
 
