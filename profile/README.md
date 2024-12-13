@@ -1,7 +1,8 @@
 
 ## 👋 Hey, this is us
-
+<!---
 ![logo](https://github.com/user-attachments/assets/8a43b1d5-5872-48e0-9a1e-8fa23b3f0084)
+--->
 
 At [Specstory](https://specstory.com/), we believe the future of software creation is more powerful and accessible **when AI enhances human creativity**. 
 
