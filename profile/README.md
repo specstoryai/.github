@@ -4,7 +4,7 @@
 ![logo](https://github.com/user-attachments/assets/8a43b1d5-5872-48e0-9a1e-8fa23b3f0084)
 --->
 
-At [Specstory](https://specstory.com/), we believe the future of software creation is more powerful and accessible **when AI enhances human creativity**. 
+At [Specstory](https://specstory.com/), we believe the future of software creation is more powerful and accessible _when AI enhances human creativity_. 
 
 AI is already effective at handling implementation details: human focus on intent and impact has never been more important.
 
@@ -12,12 +12,17 @@ We're building tools to help [software composers](https://tolacapital.com/2024/1
 
 ### 🤖 Product
 
-Our first product is a VSCode extension for **[Cursor](https://cursor.com/): the AI Code Editor**. 
+Our first product is a Visual Studio Code extension for [Cursor](https://cursor.com/): the AI Code Editor.
+
+> [!TIP]
+**Install it from [VS Code Marketplace here](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode), or from the Extensions side bar in VS Code by searching for SpecStory.**
 
 It enables users to:
 
 - Extract and store all AI coding interactions in human and LLM readable Markdown and JSON formats
 - Share these coding interactions anonymously on the web with others
+
+Love the extension? Help others discover their AI assistant's memory upgrade by dropping a quick [review](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode&ssr=false#review-details)! 🧠
 
 ### ❤️ Community
 
