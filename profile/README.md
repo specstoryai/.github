@@ -15,7 +15,7 @@ We're building tools to help [software composers](https://tolacapital.com/2024/1
 Our first product is a Visual Studio Code extension for [Cursor](https://cursor.com/): the AI Code Editor.
 
 > [!TIP]
-**Install it from [VS Code Marketplace here](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode), or from the Extensions side bar in VS Code by searching for SpecStory.**
+**Install it from [VS Code Marketplace here](http://get.specstory.com/cursor-extension), or from the Extensions side bar in VS Code by searching for SpecStory.**
 
 It enables users to:
 
