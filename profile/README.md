@@ -1,12 +1,16 @@
 
 ## 👋 Hey, this is us
-<img width="900" alt="specstory2" src="https://github.com/user-attachments/assets/5263ce23-d733-4050-bb16-8930b9f7a013" />
 
+In late 2024, [Jake](https://github.com/jakelevirne), [Sean](https://github.com/belucid) and [Greg](https://github.com/gregce) teamed up to solve a critical gap emerging in AI coding: preserving human intent. As software creation becomes more agentic, **intent is the new source code.**
 
-- At [SpecStory](www.specstory.com) we think the future of software creation is more powerful and accessible _when AI enhances human creativity_.
+<img width="900" alt="specstory2" src="https://github.com/user-attachments/assets/9983d6eb-138c-4fd6-8da0-97468f0c8b38" />
+
+### 💡 What we think
+
+At [SpecStory](https://specstory.com/) we think the future of software creation is more powerful and accessible _when AI enhances human creativity_.
+
 - AI is already effective at handling implementation details: human focus on intent and impact has never been more important.
-
-We're building tools to help [vibecoders](https://en.wikipedia.org/wiki/Vibe_coding), [software composers](https://tolacapital.com/2024/11/13/the-rise-of-the-software-composer-a-new-era-of-software-creation) and AI-first builders **save, search, share and ship with intent.**
+- We're building tools to help [vibecoders](https://en.wikipedia.org/wiki/Vibe_coding), [software composers](https://tolacapital.com/2024/11/13/the-rise-of-the-software-composer-a-new-era-of-software-creation) and AI-first builders **save, search, share and ship with intent.**
 
 ### 🤖 Products
 <img width="540" alt="SpecStory" src="https://github.com/user-attachments/assets/0e6844db-aaa0-4b0d-99ce-911ba237acfe" />
