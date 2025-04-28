@@ -9,6 +9,12 @@
 We're building tools to help [vibecoders](https://en.wikipedia.org/wiki/Vibe_coding), [software composers](https://tolacapital.com/2024/11/13/the-rise-of-the-software-composer-a-new-era-of-software-creation) and AI-first builders **save, search, share and ship with intent.**
 
 ### 🤖 Products
+<img width="540" alt="SpecStory" src="https://github.com/user-attachments/assets/0e6844db-aaa0-4b0d-99ce-911ba237acfe" />
+
+[![Installs](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3Dinstalls&style=flat-square)](https://specstory.com/api/badge?stat=installs)
+[![Active Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DactiveUsers&style=flat-square)](https://specstory.com/api/badge?stat=activeUsers)
+[![Sessions Saved](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DsessionsSaved&style=flat-square)](https://specstory.com/api/badge?stat=sessionsSaved)
+[![Rules Generated](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DrulesGenerated&style=flat-square)](https://specstory.com/api/badge?stat=rulesGenerated)
 
 Our first product is a Visual Studio Code extension that makes it easy to **save, search and share your AI chat history.** 
 - It exports your AI chats in searchable structured Markdown that you can version.
