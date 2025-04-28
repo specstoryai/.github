@@ -29,10 +29,10 @@ We support [Cursor IDE](https://www.cursor.com/) and [GitHub Copilot](https://gi
 - For Cursor: It is tested to work for `Version: 0.43.6` and later
 - For Copilot: It is tested to work for `Version: 1.300.0` and later
 
-You can view us on [VS Code Marketplace here](http://get.specstory.com/cursor-extension) 
+You can view us on [VS Code Marketplace here](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode).
 
 > [!TIP]
-**Install the lastest version VSIX directly from our [documentation site](docs.specstory.com), or from the Extensions side bar in Copilot or Cursor by searching for SpecStory.** 
+**Install the lastest version directly from our [documentation site](docs.specstory.com) from the Extensions Marketplace in Copilot or Cursor by searching for SpecStory.** 
 
 It enables users to:
 
