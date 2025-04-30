@@ -32,7 +32,7 @@ We support [Cursor IDE](https://www.cursor.com/) and [GitHub Copilot](https://gi
 You can view us on [VS Code Marketplace here](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode).
 
 > [!TIP]
-**Install the lastest version directly from our [documentation site](docs.specstory.com) from the Extensions Marketplace in Copilot or Cursor by searching for SpecStory.** 
+**Install the lastest version directly from our [documentation site](https://docs.specstory.com/introduction) from the Extensions Marketplace in Copilot or Cursor by searching for SpecStory.** 
 
 It enables users to:
 
