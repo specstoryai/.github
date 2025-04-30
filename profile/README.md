@@ -56,7 +56,7 @@ We're tracking [Awesome Software Composers](https://github.com/specstoryai/aweso
 
 ### 🤖 Love AI Code Editors? 
 
-We do too. We keep constant tabs on development across Github Copilot, Cursor, Windsurf, Aider, Cline and Zed. You can track the volume of mentions and sentiment across 14 sub-reddits at [get.specstory.com/ai-editor-editor](get.specstory.com/ai-editor-editor). Bookmark 🔖 this page!
+We do too. We keep constant tabs on development across Github Copilot, Cursor, Windsurf, Aider, Cline and Zed. You can track the volume of mentions and sentiment across 14 sub-reddits at [get.specstory.com/ai-editor-editor](https://specstory.com/editor-tracker). Bookmark 🔖 this page!
 
 ![CleanShot 2025-04-28 at 16 17 26@2x](https://github.com/user-attachments/assets/4bce8e57-37c1-4ff7-87ba-fca1163d28d0)
 
