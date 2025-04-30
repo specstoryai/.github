@@ -48,7 +48,7 @@ Love the extension? Help others discover their AI assistant's memory upgrade by 
 The space of AI-assisted software creation is new, rich and fast moving. We love learning and building with others. If you share this ethos, get involved:
 
 - Join our [slack community](https://specstory.slack.com/join/shared_invite/zt-2vq0274ck-MYS39rgOpDSmgfE1IeK9gg)
-- [Subscribe](https://newsletter.specstory.com/)) to our weekly newsletter
+- [Subscribe](https://newsletter.specstory.com/) to our weekly newsletter
 - Read our [blog](https://specstory.com/blog)
 - Follow us on [X.com](https://x.com/specstoryai) and [LinkedIn](https://www.linkedin.com/company/specstory/) and
 
