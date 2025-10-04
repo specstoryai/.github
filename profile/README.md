@@ -27,7 +27,7 @@ Our extensions makes it easy to **save, search and share your AI chat history.**
 - Generates custom instructions from your conversation history
 - Share interactions with your team or the community
 
-Supports [Cursor IDE](https://www.cursor.com/) (v0.43.6+), [GitHub Copilot](https://github.com/features/copilot) (v1.300.0+), and [Claude Code](https://www.claude.com/product/claude-code) (v1.0.27+) IDEs, as well as [Cursor CLI](https://cursor.com/cli) (v2025.09.18-7ae6800+) and [Codex CLI](https://www.openai.com/codex/cli/) (v0.42.0+) via our CLI.
+Supports [Cursor IDE](https://www.cursor.com/) (v0.43.6+), [GitHub Copilot](https://github.com/features/copilot) (v1.300.0+) IDEs, as well as [Claude Code](https://www.claude.com/product/claude-code) (v1.0.27+), [Cursor CLI](https://cursor.com/cli) (v2025.09.18-7ae6800+) and [Codex CLI](https://www.openai.com/codex/cli/) (v0.42.0+) via our CLI.
 
 > [!TIP]
 > **Install from the Extensions Marketplace in Cursor or VSCode by searching for "SpecStory"**
