@@ -18,7 +18,7 @@ We're building a suite of tools to enhance your AI development workflow—from c
 [![Sessions Saved](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DsessionsSaved&style=flat-square)](https://specstory.com/api/badge?stat=sessionsSaved)
 [![Rules Generated](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DrulesGenerated&style=flat-square)](https://specstory.com/api/badge?stat=rulesGenerated)
 
-**For Cursor, GH Copilot, and Claude Code**
+**For Cursor, Cursor CLI, GH Copilot, Claude Code, and Codex CLI**
 
 Our extensions makes it easy to **save, search and share your AI chat history.** Never lose a great solution again.
 
@@ -33,16 +33,21 @@ Supports [Cursor IDE](https://www.cursor.com/) (v0.43.6+), [GitHub Copilot](http
 > **Install from the Extensions Marketplace in Cursor or VSCode by searching for "SpecStory"**
 
 ####  🖥️ SpecStory CLI
-**For Claude Code Users**
+
+**For Terminal Agent Users**
 
 ```bash
 brew tap specstoryai/tap && brew install specstory
-specstory claude  # Launch Claude Code with auto-save
+specstory run claude  # Launch Claude Code with auto-save
+specstory run cursor  # Launch Cursor CLI with auto-save
+specstory run codex  # Launch Codex CLI with auto-save
+specstory sync # Sync past sessions to markdown
 ```
 
 Love the tools? Drop us a [review](https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode&ssr=false#review-details)! 🧠
 
 #### 🧸 BearClaude
+
 **A Focused macOS tool for Spec-First Development**
 
 [BearClaude](https://bearclaude.specstory.com) transforms how you work with AI—because **code is fast, but clarity is rare**.
