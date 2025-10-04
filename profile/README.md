@@ -27,7 +27,7 @@ Our extensions makes it easy to **save, search and share your AI chat history.**
 - Generates custom instructions from your conversation history
 - Share interactions with your team or the community
 
-Supports [Cursor IDE](https://www.cursor.com/) (v0.43.6+), [GitHub Copilot](https://github.com/features/copilot) (v1.300.0+), and now [Claude Code](https://claude.ai/code) (v1.0.27+) via our CLI.
+Supports [Cursor IDE](https://www.cursor.com/) (v0.43.6+), [GitHub Copilot](https://github.com/features/copilot) (v1.300.0+), and [Claude Code](https://www.claude.com/product/claude-code) (v1.0.27+), [Cursor CLI](https://cursor.com/cli) (v2025.09.18-7ae6800+) and [Codex CLI](https://www.openai.com/codex/cli/) (v0.42.0+) via our CLI.
 
 > [!TIP]
 > **Install from the Extensions Marketplace in Cursor or VSCode by searching for "SpecStory"**
@@ -69,7 +69,7 @@ In late 2024, [Jake](https://github.com/jakelevirne), [Sean](https://github.com/
 
 The space of AI-assisted software creation is new, rich and fast moving. We love learning and building with others. If you share this ethos, get involved:
 
-- Join our [slack community](https://specstory.slack.com/join/shared_invite/zt-2vq0274ck-MYS39rgOpDSmgfE1IeK9gg)
+- Join our [Slack community](https://specstory.slack.com/join/shared_invite/zt-2vq0274ck-MYS39rgOpDSmgfE1IeK9gg)
 - [Subscribe](https://newsletter.specstory.com/) to our weekly newsletter
 - Read our [blog](https://specstory.com/blog)
 - Follow us on [X.com](https://x.com/specstoryai) and [LinkedIn](https://www.linkedin.com/company/specstory/) and
