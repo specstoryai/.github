@@ -11,7 +11,7 @@ We're building a suite of products to enhance your agentic development workflow.
 
 #### 🏛️ Stoa - where makers meet
 
-[**Stoa**](https://withstoa.com) is our commercial, multiplayer platform where **conversations become code**. It's a live room where product teams collapse the distance between a decision and the commit that ships it.
+[**Stoa**](https://withstoa.com) is our commercial, multiplayer platform where **conversations become code**. It's a live room where product teams collapse the distance between a decision and the commit that ships it. 
 
 - **Decision capture**: live extraction of decisions, reasoning, and attribution as you talk on high fidelity video calls. No more post-meeting writeups.
 - **Collaborative agents**: multiple sandboxed Claude Code agents can code and write *while you talk*, with live previews the whole team can see.
@@ -19,7 +19,7 @@ We're building a suite of products to enhance your agentic development workflow.
 - **Versioned everything**: every file edit traces back to the conversation that produced it.
 - **Local-first**: A desktop app for macOS and the `stoa cli` sync context to your machine. No vendor lock-in.
 
-Pay-as-you-go at **$5/hour**. No per-seat pricing, no annual contracts.
+Pay-as-you-go at **$5/hour**. No per-seat pricing, no annual contracts. [Read the docs.](https://docs.withstoa.com/)
 
 #### 🔌 SpecStory - Extensions
 
@@ -29,9 +29,6 @@ Pay-as-you-go at **$5/hour**. No per-seat pricing, no annual contracts.
 [![Rules Generated](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3DrulesGenerated&style=flat-square)](https://specstory.com/api/badge?stat=rulesGenerated)
 
 > 🌱 **Open source** — the [SpecStory CLI](https://github.com/specstoryai/getspecstory/tree/main/specstory-cli) and [Agent Skills](https://github.com/specstoryai/agent-skills) are public on GitHub. PRs welcome.
-
-**For Cursor, GH Copilot, Claude Code, Cursor CLI, Codex CLI, Droid CLI, and Gemini CLI**
-
 *Intent is the new source code.* Turn your AI development conversations into searchable, shareable knowledge. Local-first, with optional cloud sync.
 
 - Automatically saves all AI coding interactions in `.specstory/history`
@@ -72,7 +69,7 @@ specstory sync         # Sync past sessions to markdown
 
 #### ☁️ SpecStory - Cloud (Free)
 
-[**SpecStory Cloud**](https://cloud.specstory.com) is a free service that turns your local `.specstory/history` into a centralized, searchable knowledge base for for agentic developmenet. **Explicit opt-in**, nothing syncs from our extensions unless you log in.
+[**SpecStory Cloud**](https://cloud.specstory.com) is a free service that turns your local `.specstory/history` into a centralized, searchable knowledge base for for agentic development. **Explicit opt-in**, nothing syncs from our extensions unless you log in.
 
 - 🔍 RAG and full-text search across every project
 - 📚 Auto-organized by repo and time
