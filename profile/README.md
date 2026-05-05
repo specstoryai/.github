@@ -6,6 +6,7 @@ At [SpecStory](https://specstory.com/) we believe AI should be multiplayer, cont
 
 We're building a suite of products to enhance your agentic development workflow. 
 - [**Stoa**](https://withstoa.com) is the multiplayer room for product teams who ship with agents.
+  - [**`stoa sharelocalhost`**](https://github.com/specstoryai/share-localhost) turns localhost into a public URL and viewer voice memos into agent-ready transcripts in your terminal.
 - [**SpecStory Extensions**](http://github.com/specstoryai/getspecstory/) auto-save your AI session data as local first markdown.
 - [**SpecStory Cloud**](http://cloud.specstory.com/) syncs that AI session data to the cloud so you can search and share it.
 
@@ -21,6 +22,18 @@ We're building a suite of products to enhance your agentic development workflow.
 
 Pay-as-you-go at **$5/hour**. No per-seat pricing, no annual contracts. [Read the docs.](https://docs.withstoa.com/)
 
+##### 🎙️  `stoa sharelocalhost` — public URL + voice memos
+
+A one-command public URL for your dev server, with built-in voice-memo capture from viewers. Audio and a clean transcript land in your terminal at `~/.stoa/feedback/`, ready to pipe to Claude Code, Cursor, Codex, or whatever's building the next change.                                                          
+                                                        
+  ```bash                             
+  brew tap specstoryai/tap && brew install stoa
+  stoa sharelocalhost          # pick a port, get a public URL live for 1 hour
+  ```                           
+  A free Stoa account is required to share. Issues and feature requests: [specstoryai/share-localhost](https://github.com/specstoryai/share-localhost).
+
+---
+                                             
 #### 🔌 SpecStory - Extensions
 
 [![Installs](https://img.shields.io/endpoint?url=https%3A%2F%2Fspecstory.com%2Fapi%2Fbadge%3Fstat%3Dinstalls&style=flat-square)](https://specstory.com/api/badge?stat=installs)
@@ -66,6 +79,8 @@ specstory sync         # Sync past sessions to markdown
 #### 🔧 Agent Skills (Free & OSS)
 
 [**Agent Skills**](https://github.com/specstoryai/agent-skills) are open-source skills that work on top of your `.specstory/history` — generate session summaries, fetch project stats, organize history, scan for secrets, and more.
+
+---
 
 #### ☁️ SpecStory - Cloud (Free)
 
